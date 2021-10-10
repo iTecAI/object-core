@@ -1,0 +1,9 @@
+{
+    "test": 0,
+    "test_dict": {
+        "key": "value",
+        "recursion": {
+            "depth": 3
+        }
+    }
+}

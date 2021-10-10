@@ -1,0 +1,9 @@
+{
+    "__objectType__": "BaseObjectExtended",
+    "data": "some data",
+    "more_data": {
+        "__objectType__": "DataClass",
+        "numbers": [0,1,2],
+        "data": "test"
+    }
+}
